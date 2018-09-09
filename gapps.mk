@@ -1,0 +1,1 @@
+TARGET_GAPPS_ARCH := arm64
